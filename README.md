@@ -1,2 +1,2 @@
 # running-with-scissors
-just another repo with a change
+just another repo with another change
